@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+}
+ul{
+    margin: 0 40vw;
+    padding: 12px;
+}
+li{
+    text-align: left;
+    padding: .5em;
+}

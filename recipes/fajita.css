@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(238, 173, 53);
+    text-align: center;
+    font-size: 1.2rem;
+}
+img{
+    min-width: 300px;
+}
+p{
+    margin: 0 12vw;
+    padding: 25px;
+}
+ul{
+    margin: 0 30vw;
+}
+li{
+    text-align:left;
+}
+ol{
+    margin: 0 30vw;
+}
